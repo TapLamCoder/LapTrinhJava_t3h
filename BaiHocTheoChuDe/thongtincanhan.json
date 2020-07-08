@@ -1,0 +1,10 @@
+{
+	"name": "Tran Vi Tinh",
+	"address": "137E Nguyen Chi Thanh",
+	"age": 35,
+	"courses": [
+		"LT Java",
+		"LT Python",
+		"LT Android"
+	]
+}

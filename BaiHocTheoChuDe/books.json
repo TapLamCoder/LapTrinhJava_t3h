@@ -1,0 +1,7 @@
+{"books": 
+[
+	{"language":"Java", "edition":"first"},
+	{"language":"Python", "edition":"second"},
+	{"language":"Kotlin", "edition":"third"}
+]
+}
